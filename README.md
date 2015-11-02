@@ -68,3 +68,14 @@
 	
 	> 编程语言技能学习网站， 包括HTML&CSS、Javascript、JQuery、PHP、Python、PHP、Ruby、SQL、Java、Git等等。以小节编程问答形式慢慢循环渐近，通过后方能进入下一一节。
 
+
+## 公众号
+> 微信公众号（IT/技术类）
+
+## App 类
+> App 类推荐 （IT/技术类）
+
+
+
+
+
