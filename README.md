@@ -1,8 +1,9 @@
-# personal-bookmarks
+# personal-bookmarks（持续更新）
 
 > 分类记录个人书签，方便查阅。 包括但不限于个人收藏的技术站点、技术文章链接、公众号、系列文章以及好的App。
 
-## PHP-BookMarks 
+
+## 0x00 PHP-BookMarks 
 > PHP技术文章
 
 - [风雪之隅](http://www.laruence.com/)   
@@ -12,17 +13,29 @@
 - [深入理解PHP内核：Thinking In PHP Internals](http://www.php-internals.com/)  
 
 	> TIPI 是一个开源项目，这个项目是为了分享有关PHP内部实现的方方面面， 以便更好的运用PHP项目包含《深入理解PHP内核》这本开源书籍，同时还有其他一些相关的项目，比如一些PHP扩展等。
+	
+- [PHP之道](http://wulijun.github.io/php-the-right-way/#site-header)
 
-## Javascript-BookMarks
+	> PHP之道网站的目标就是搜集PHP最佳实践、编码规范和网络上的权威学习指南，给PHP学习者提供一个易于阅读，快速查找的入口。
+
+## 0x01 Javascript-BookMarks
 > Javascript
 
 ## HTML 5
 > HTML 5
 
-## Linux-BookMarks
+## 0x02 Linux-BookMarks
 > Linux
 
-## Python-BookMarks
+- [Linux.中国-开源社区](https://linux.cn/)
+
+	> Linux开源中文社区，Linux中国是一家创立于2003年的国内开源社区，主要关注方向在 Linux 推广、Linux 技术研究、Linux 业界事件的传播。Linux 中国包括网站、微博、微信和邮件列表等平台。
+	
+- [LinuxTone](http://bbs.linuxtone.org/forum.php)
+
+	> 运维专家网论坛,Linux运维与开源架构技术交流社区!
+
+## 0x03 Python-BookMarks
 > Python
 
 - [Python教程](http://www.yiibai.com/python/python_modules.html#python_modules)
@@ -37,23 +50,23 @@
 
 	> Dive Into Python 是为有经验的程序员编写的一本 Python 书。在这里你可以在线阅读本书或者下载多种格式的版本。也可以获得多种语言的版本。
 
-## 数据库-BookMarks
+## 0x04 数据库-BookMarks
 > Mysql
 
-## Nginx-Or-Apache-BookMarks
+## 0x05 Nginx-Or-Apache-BookMarks
 > Nginx-Or-Apache
 
 - [Nginx Wiki](https://www.nginx.com/resources/wiki/)
 
 	> NGINX Wiki’s documentation!
 
-## IOS-BookMarks
+## 0x06 IOS-BookMarks
 > IOS
 
-## Git-BookMakrs
+## 0x07 Git-BookMakrs
 > Git
 
-## Other-BookMarks
+## 0x08 Other-BookMarks
 > Other
 
 - [MacTalk-池建强的随想录](http://macshuo.com/)
