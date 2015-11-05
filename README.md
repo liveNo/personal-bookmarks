@@ -24,6 +24,8 @@
 ## HTML 5
 > HTML 5
 
+
+
 ## 0x02 Linux-BookMarks
 > Linux
 
@@ -34,6 +36,11 @@
 - [LinuxTone](http://bbs.linuxtone.org/forum.php)
 
 	> 运维专家网论坛,Linux运维与开源架构技术交流社区!
+
+- [AWK处理日志入门](http://calvin1978.blogcn.com/articles/awk_accesslog.html)
+
+	> 这两天自己挽起袖子处理日志，终于把AWK给入门了。其实AWK的基本使用，学起来也就半天的时间，之前总是靠同事代劳，惰性呀。
+
 
 ## 0x03 Python-BookMarks
 > Python
@@ -51,7 +58,19 @@
 	> Dive Into Python 是为有经验的程序员编写的一本 Python 书。在这里你可以在线阅读本书或者下载多种格式的版本。也可以获得多种语言的版本。
 
 ## 0x04 数据库-BookMarks
-> Mysql
+> Mysql、MongoDB、Redis、Memcached.
+
+- [mongo游标导致的栈溢出报错](http://www.galen-yip.com/2015/11/02/An-experience-about-maximum-call-stack-error/)
+
+	> 在mongo中每天的数据量大概是5500W+，每天一张collection。 大数据量面前，直接把数据load到内存里的话，不用说，直接死翘翘了。这里采用了游标的方式。每天早上7点开始每5分钟跑一次脚本。用游标的方式遍历数据，数据量到7点为止，差不多是700+W
+
+- [高质量服务端之路(二)—Redis集群最佳实践](http://jimhuang.cn/?p=402#rd&sukey=fc78a68049a14bb2dbaf9b4b070765faafee29beaf2a0cece9d50bef5485a0e0eecad736cb15b4451305f0924bd460fc)
+
+	> 今天我们来聊一聊Redis集群。先看看集群的特点，我对它的理解是要需要同时满足高可用性以及可扩展性，即任何时候对外的接口都要是基本可用的并具备一定的灾备能力，同时节点的数量能够根据业务量级的大小动态的伸缩。那么我们一般如何实现呢？
+	
+- [数据库软件架构设计些什么](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400465735&idx=1&sn=8d7067de4cc8f73ea5558f07e0a9340e&scene=0#wechat_redirect)
+
+	> 缘起：受@萧田国 萧总邀请，上周五晚上在“高效运维1号群”内分享了《58同城数据库软件架构设计与实践》（这个topic今年在数据库大会上分享过），应组织方要求，发出纪要。
 
 ## 0x05 Nginx-Or-Apache-BookMarks
 > Nginx-Or-Apache
@@ -84,6 +103,8 @@
 
 ## 公众号
 > 微信公众号（IT/技术类）
+
+
 
 ## App 类
 > App 类推荐 （IT/技术类）
