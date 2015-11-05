@@ -100,6 +100,9 @@
 	
 	> 编程语言技能学习网站， 包括HTML&CSS、Javascript、JQuery、PHP、Python、PHP、Ruby、SQL、Java、Git等等。以小节编程问答形式慢慢循环渐近，通过后方能进入下一一节。
 
+- [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/index.html)
+
+	> 手册内容为「如何让一部全新的 MacBook 快速完成开发环境配置」，主要面向 Web 开发者。其中的指导，在 Mavericks 和 Yosemite 上有效，其他版本系统并未尝试。如果你是一名老手，本手册让你减少配置开发环境的烦恼.如果你是一名新手，那么恭喜你，你将会认识一个全新的世界。
 
 ## 公众号
 > 微信公众号（IT/技术类）
