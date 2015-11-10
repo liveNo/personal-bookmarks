@@ -18,11 +18,8 @@
 
 	> PHP之道网站的目标就是搜集PHP最佳实践、编码规范和网络上的权威学习指南，给PHP学习者提供一个易于阅读，快速查找的入口。
 
-## 0x01 Javascript-BookMarks
+## 0x01 Javascript/HTML5-BookMarks
 > Javascript
-
-## HTML 5
-> HTML 5
 
 
 
@@ -82,6 +79,26 @@
 ## 0x06 IOS-BookMarks
 > IOS
 
+- [干货集中营](http://tinyletter.com/daimajia/archive)
+	
+	> 主要是IOS方面一些文章
+
+- [自学IOS开发的一些经验](http://www.imooc.com/article/1467)
+
+	> 适用初学者
+
+- [IOS资源库列表](http://app.memect.com/doc/ios.html)
+
+	> Awesome IOS 一个很棒的iOS框架，功能库，教程，Xcode插件，组件列表。分成多个类别，比如框架，组件，测试，开源项目，免费和收费服务。(中文版)
+
+- [IOS学习资料整理](https://github.com/Aufree/trip-to-iOS)
+
+	> 这份学习资料是为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置.
+
+- [苹果Xcode帮助文档阅读指南](http://www.imooc.com/article/1524)
+
+	> 苹果Xcode帮助文档阅读指南
+
 ## 0x07 Git-BookMakrs
 > Git
 
@@ -103,6 +120,22 @@
 - [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/index.html)
 
 	> 手册内容为「如何让一部全新的 MacBook 快速完成开发环境配置」，主要面向 Web 开发者。其中的指导，在 Mavericks 和 Yosemite 上有效，其他版本系统并未尝试。如果你是一名老手，本手册让你减少配置开发环境的烦恼.如果你是一名新手，那么恭喜你，你将会认识一个全新的世界。
+
+- [网络安全方面](http://www.xfocus.net)
+
+	> 网络安全焦点::自由的信息安全、黑客攻防和漏洞研究组织 
+
+- [码农周刊分类](https://github.com/nemoTyrant/manong)
+
+	> 码农周刊的类别分的比较大，不易于后期查阅，所以笔者把每期的内容按语言或技术进行了分类整理
+
+- [技术博客友情链接](http://www.gfzj.us/links/)
+	
+	> 包含众多技术博客链接
+
+- [有了这个列表，程序员不悉没练手的小项目了](http://blog.jobbole.com/49762/)
+
+	> 我经常看有人发帖问关于项目点子的事，也看到了很多回帖，我自己也回了一些常见的项目。不过我觉得只列出三两个是远远不够的，因此就收集并这个项目列表，大家要找简单的编程项目学习练手的话，可以收藏并扩散本文。这些项目并不是论文级别的，只是想抛砖引玉让大家能从中受些启发。
 
 ## 公众号
 > 微信公众号（IT/技术类）
