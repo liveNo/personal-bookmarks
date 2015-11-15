@@ -17,6 +17,9 @@
 - [PHP之道](http://wulijun.github.io/php-the-right-way/#site-header)
 
 	> PHP之道网站的目标就是搜集PHP最佳实践、编码规范和网络上的权威学习指南，给PHP学习者提供一个易于阅读，快速查找的入口。
+	
+- [使用Supervisor来管理你的Laravel队列](http://yansu.org/2014/03/22/managing-your-larrvel-queue-by-supervisor.html)
+	> Laravel官网教程中，并没有提到用它来写CLI应用，即守护进程或者可执行脚本。但是它却提供了更加便捷的队列(Queue)功能。
 
 ## 0x01 Javascript/HTML5-BookMarks
 > Javascript
@@ -140,6 +143,13 @@
 - [有了这个列表，程序员不悉没练手的小项目了](http://blog.jobbole.com/49762/)
 
 	> 我经常看有人发帖问关于项目点子的事，也看到了很多回帖，我自己也回了一些常见的项目。不过我觉得只列出三两个是远远不够的，因此就收集并这个项目列表，大家要找简单的编程项目学习练手的话，可以收藏并扩散本文。这些项目并不是论文级别的，只是想抛砖引玉让大家能从中受些启发。
+
+- [终极 Shell——ZSH](http://zhuanlan.zhihu.com/mactalk/19556676)
+	> 目前常用的 Linux 系统和 OS X 系统的默认 Shell 都是 bash，但是真正强大的 Shell 是深藏不露的 zsh， 这货绝对是马车中的跑车，跑车中的飞行车，史称『终极 Shell』，但是由于配置过于复杂，所以初期无人问津，很多人跑过来看看 zsh 的配置指南，什么都不说转身就走了。直到有一天，国外有个穷极无聊的程序员开发出了一个能够让你快速上手的zsh项目，叫做「oh my zsh」，Github 网址是：https://github.com/robbyrussell/oh-my-zsh。这玩意就像「X天叫你学会 C++」系列，可以让你神功速成，而且是真的。
+
+- [Redis 设计与实现](http://redisbook.com/)
+	> 《Redis 设计与实现》一书全面而完整地讲解了 Redis 的内部运行机制， 对 Redis 的大多数单机功能以及所有多机功能的实现原理进行了介绍， 展示了这些功能的核心数据结构以及关键的算法思想。 通过阅读本书， 读者可以快速、有效地了解 Redis 的内部构造以及运作机制， 从而学会如何更高效地使用 Redis 。
+
 
 ## 公众号
 > 微信公众号（IT/技术类）
