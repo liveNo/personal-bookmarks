@@ -21,6 +21,9 @@
 - [使用Supervisor来管理你的Laravel队列](http://yansu.org/2014/03/22/managing-your-larrvel-queue-by-supervisor.html)
 	> Laravel官网教程中，并没有提到用它来写CLI应用，即守护进程或者可执行脚本。但是它却提供了更加便捷的队列(Queue)功能。
 
+- [如何编写一个独立的 PHP 扩展（译）](http://0x1.im/blog/php/how-to-create-a-php-extension.html)
+	> 本文翻译自 PHP 源码中的 README.SELF-CONTAINED-EXTENSIONS。文中标记了 注 的内容均为自己添加。内容有点老，也挺啰嗦，没讲什么深入的内容，但是可以作为入门学习参考。
+
 ## 0x01 Javascript/HTML5-BookMarks
 > Javascript
 
