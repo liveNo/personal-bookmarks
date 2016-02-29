@@ -119,6 +119,8 @@
 ## 0x08 Other-BookMarks
 > Other
 
+- [大型网站架构系列：电商网站架构案例](http://blog.jobbole.com/97951/)
+
 - [MacTalk-池建强的随想录](http://macshuo.com/)
 
 	> MacTalk 开通于2012年末，内容起于 Mac 而不止 Mac，讲述技术与人文的故事，释放编程与写作的力量
