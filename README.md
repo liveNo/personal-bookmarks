@@ -166,6 +166,9 @@
 - [freeBuf](http://www.freebuf.com/)
 	> FreeBuf.COM | 关注黑客与极客
 
+- [关于程序员求职简历](https://mdluo.github.io/blog/about-resume/)
+	> 一份简历最核心的两个要素：1. 向 HR 准确且高效地传递信息；2. 作为面试官考察个人能力的线索。
+
 
 ## 0x09 架构-BookMarks
 
