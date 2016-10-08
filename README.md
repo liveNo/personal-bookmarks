@@ -82,6 +82,8 @@
 
 - [又拍网架构中的分库设计](http://www.infoq.com/cn/articles/yupoo-partition-database)  
 	> 又拍网是一个照片分享社区，从2005年6月至今积累了260万用户，1.1亿张照片，目前的日访问量为200多万。5年的发展历程里经历过许多起伏，也积累了一些经验，在这篇文章里，我要介绍一些我们在技术上的积累。
+
+- <a href="http://www.yankay.com/wp-content/NoSql_Database_Note.html">NoSQL数据库笔谈</a>
 	
 	
 	
@@ -120,6 +122,14 @@
 
 ## 0x07 Git-BookMakrs
 > Git
+
+- [Git教程(廖雪峰 创作)](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
+- [Git 参考手册](http://gitref.justjavac.com/)
+- [Pro Git](http://git-scm.com/book/zh)
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+- [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
 
 ## 0x08 Other-BookMarks
 > Other
@@ -183,6 +193,8 @@
 
 - [微博推荐架构的演进](http://blog.jobbole.com/93818/)
 	> 微博（Weibo）是一种通过关注机制分享简短实时信息的广播式社交网络平台。微博用户通过关注来订阅内容，在这种场景下，推荐系统可以很好地和订阅分发体系进行融合，相互促进。微博两个核心基础点：一是用户关系构建，二是内容传播，微博推荐一直致力于优化这两点，促进微博发展。
+	
+- [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
 
 
 
