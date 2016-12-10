@@ -7,29 +7,15 @@
 > PHP技术文章
 
 - [风雪之隅](http://www.laruence.com/)   
-
-	> Laruence PHP开发组成员, Zend兼职顾问, PHP7核心开发者, Yaf, Yar, Yac等项目作者.
-
 - [深入理解PHP内核：Thinking In PHP Internals](http://www.php-internals.com/)  
-
-	> TIPI 是一个开源项目，这个项目是为了分享有关PHP内部实现的方方面面， 以便更好的运用PHP项目包含《深入理解PHP内核》这本开源书籍，同时还有其他一些相关的项目，比如一些PHP扩展等。
-	
 - [PHP之道](http://wulijun.github.io/php-the-right-way/#site-header)
-
-	> PHP之道网站的目标就是搜集PHP最佳实践、编码规范和网络上的权威学习指南，给PHP学习者提供一个易于阅读，快速查找的入口。
-	
 - [使用Supervisor来管理你的Laravel队列](http://yansu.org/2014/03/22/managing-your-larrvel-queue-by-supervisor.html)
-	> Laravel官网教程中，并没有提到用它来写CLI应用，即守护进程或者可执行脚本。但是它却提供了更加便捷的队列(Queue)功能。
-
 - [如何编写一个独立的 PHP 扩展（译）](http://0x1.im/blog/php/how-to-create-a-php-extension.html)
-	> 本文翻译自 PHP 源码中的 README.SELF-CONTAINED-EXTENSIONS。文中标记了 注 的内容均为自己添加。内容有点老，也挺啰嗦，没讲什么深入的内容，但是可以作为入门学习参考。
 
 ## 0x01 Javascript/HTML5-BookMarks
 > Javascript
 
 - [关于前端面试](https://mdluo.github.io/blog/about-front-end-interview/) 
-	> 在网上收集的前端面试相关资料，包括预备知识、书籍、面试考点、面经等。前端方面资料其实太多太多，就光从知乎、前端乱炖、w3cplus 等网站就能找到很多，所以针对细节不发散，仅挑一些内容丰富的合集，更多的资料可以从其中找到。
-
 
 ## 0x02 Linux-BookMarks
 > Linux
@@ -66,24 +52,20 @@
 > Mysql、MongoDB、Redis、Memcached.
 
 - [mongo游标导致的栈溢出报错](http://www.galen-yip.com/2015/11/02/An-experience-about-maximum-call-stack-error/)
-
-	> 在mongo中每天的数据量大概是5500W+，每天一张collection。 大数据量面前，直接把数据load到内存里的话，不用说，直接死翘翘了。这里采用了游标的方式。每天早上7点开始每5分钟跑一次脚本。用游标的方式遍历数据，数据量到7点为止，差不多是700+W
-
 - [高质量服务端之路(二)—Redis集群最佳实践](http://jimhuang.cn/?p=402#rd&sukey=fc78a68049a14bb2dbaf9b4b070765faafee29beaf2a0cece9d50bef5485a0e0eecad736cb15b4451305f0924bd460fc)
-
-	> 今天我们来聊一聊Redis集群。先看看集群的特点，我对它的理解是要需要同时满足高可用性以及可扩展性，即任何时候对外的接口都要是基本可用的并具备一定的灾备能力，同时节点的数量能够根据业务量级的大小动态的伸缩。那么我们一般如何实现呢？
-	
 - [数据库软件架构设计些什么](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400465735&idx=1&sn=8d7067de4cc8f73ea5558f07e0a9340e&scene=0#wechat_redirect)
-
-	> 缘起：受@萧田国 萧总邀请，上周五晚上在“高效运维1号群”内分享了《58同城数据库软件架构设计与实践》（这个topic今年在数据库大会上分享过），应组织方要求，发出纪要。
-
 - [SQL注入之SQLmap入门](http://www.freebuf.com/articles/web/29942.html)
-	> 什么是SQLmap？SQLmap是一款用来检测与利用SQL注入漏洞的免费开源工具，有一个非常棒的特性，即对检测与利用的自动化处理（数据库指纹、访问底层文件系统、执行命令）。
-
 - [又拍网架构中的分库设计](http://www.infoq.com/cn/articles/yupoo-partition-database)  
-	> 又拍网是一个照片分享社区，从2005年6月至今积累了260万用户，1.1亿张照片，目前的日访问量为200多万。5年的发展历程里经历过许多起伏，也积累了一些经验，在这篇文章里，我要介绍一些我们在技术上的积累。
-
-- <a href="http://www.yankay.com/wp-content/NoSql_Database_Note.html">NoSQL数据库笔谈</a>
+- [http://www.cnblogs.com/leoo2sk/archive/2011/07/10/mysql-index.html](http://www.cnblogs.com/leoo2sk/archive/2011/07/10/mysql-index.html)
+- [NoSQL数据库笔谈](http://www.yankay.com/wp-content/NoSql_Database_Note.html)([PDF](http://yankaycom-wordpress.stor.sinaapp.com/uploads/2012/12/NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AC%94%E8%B0%88v2.pdf))
+- [Redis 设计与实现](http://www.redisbook.com/en/latest/)
+- [Redis 命令参考](http://www.redisdoc.com/en/latest/)
+- [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+- [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source)
+- [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
+- [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+- [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
+- [Neo4j .rb 中文資源](http://neo4j.tw/)
 	
 	
 	
@@ -130,74 +112,41 @@
 - [Pro Git](http://git-scm.com/book/zh)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 - [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
-
-## 0x08 Other-BookMarks
-> Other
-
-- [MacTalk-池建强的随想录](http://macshuo.com/)
-
-	> MacTalk 开通于2012年末，内容起于 Mac 而不止 Mac，讲述技术与人文的故事，释放编程与写作的力量
-
-- [UML 基础: 类图](http://www.ibm.com/developerworks/cn/rational/rationaledge/content/feb05/bell/)
-
-	> 在 UML 2 中，作为新结构图类型的最重要实例，类图可以在整个软件开发生命周期中，被分析师，业务建模人员，开发者和测试者使用的。本文提供了全面的介绍。
-
-- [codeCademy](https://www.codecademy.com/zh/learn)
-	
-	> 编程语言技能学习网站， 包括HTML&CSS、Javascript、JQuery、PHP、Python、PHP、Ruby、SQL、Java、Git等等。以小节编程问答形式慢慢循环渐近，通过后方能进入下一一节。
-
-- [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/index.html)
-
-	> 手册内容为「如何让一部全新的 MacBook 快速完成开发环境配置」，主要面向 Web 开发者。其中的指导，在 Mavericks 和 Yosemite 上有效，其他版本系统并未尝试。如果你是一名老手，本手册让你减少配置开发环境的烦恼.如果你是一名新手，那么恭喜你，你将会认识一个全新的世界。
-
-- [网络安全方面](http://www.xfocus.net)
-
-	> 网络安全焦点::自由的信息安全、黑客攻防和漏洞研究组织 
-
-- [记一次被中间人攻击的经历](http://www.cnblogs.com/pannengzhi/p/4927707.html)
-	
-	> 这次中招突如其来，如果不是弹窗太突兀，整个中间人攻击的过程还是相当隐秘的，其背后还好是个以钓鱼为目的的黑产链，若是单纯的监控或者做小手脚，一般人根本无法察觉，真是细思恐极。而且这种攻击是基于缓存的行为，杀毒软件一般都无法检测。网络世界像黑暗森林一样野蛮无情，掌握点基本技能保护自己还是很必要的。
-
-- [码农周刊分类](https://github.com/nemoTyrant/manong)
-
-	> 码农周刊的类别分的比较大，不易于后期查阅，所以笔者把每期的内容按语言或技术进行了分类整理
-
-- [技术博客友情链接](http://www.gfzj.us/links/)
-	
-	> 包含众多技术博客链接
-
-- [有了这个列表，程序员不悉没练手的小项目了](http://blog.jobbole.com/49762/)
-
-	> 我经常看有人发帖问关于项目点子的事，也看到了很多回帖，我自己也回了一些常见的项目。不过我觉得只列出三两个是远远不够的，因此就收集并这个项目列表，大家要找简单的编程项目学习练手的话，可以收藏并扩散本文。这些项目并不是论文级别的，只是想抛砖引玉让大家能从中受些启发。
-
-- [终极 Shell——ZSH](http://zhuanlan.zhihu.com/mactalk/19556676)
-	> 目前常用的 Linux 系统和 OS X 系统的默认 Shell 都是 bash，但是真正强大的 Shell 是深藏不露的 zsh， 这货绝对是马车中的跑车，跑车中的飞行车，史称『终极 Shell』，但是由于配置过于复杂，所以初期无人问津，很多人跑过来看看 zsh 的配置指南，什么都不说转身就走了。直到有一天，国外有个穷极无聊的程序员开发出了一个能够让你快速上手的zsh项目，叫做「oh my zsh」，Github 网址是：https://github.com/robbyrussell/oh-my-zsh。这玩意就像「X天叫你学会 C++」系列，可以让你神功速成，而且是真的。
-
-- [Redis 设计与实现](http://redisbook.com/)
-	> 《Redis 设计与实现》一书全面而完整地讲解了 Redis 的内部运行机制， 对 Redis 的大多数单机功能以及所有多机功能的实现原理进行了介绍， 展示了这些功能的核心数据结构以及关键的算法思想。 通过阅读本书， 读者可以快速、有效地了解 Redis 的内部构造以及运作机制， 从而学会如何更高效地使用 Redis 。
-
-- [freeBuf](http://www.freebuf.com/)
-	> FreeBuf.COM | 关注黑客与极客
-
-- [关于程序员求职简历](https://mdluo.github.io/blog/about-resume/)
-	> 一份简历最核心的两个要素：1. 向 HR 准确且高效地传递信息；2. 作为面试官考察个人能力的线索。
+- [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+- [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
+- [HgInit (中文版)](http://bucunzai.net/hginit/)
+- [沉浸式学 Git](http://igit.linuxtoy.org/)
+- [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
+- [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 
 
-## 0x09 架构-BookMarks
+
+## 0x08 架构-BookMarks
 
 - [大型网站架构系列：电商网站架构案例](http://blog.jobbole.com/97951/)
-	> 电商网站架构案例。从电商网站的需求，到单机架构，逐步演变为常用的，可供参考的分布式架构的原型。除具备功能需求外，还具备一定的高性能，高可用，可伸缩，可扩展等非功能质量需求（架构目标）。
-
 - [大型网站架构系列：消息队列](http://blog.jobbole.com/98028/)
-	> 消息队列中间件是分布式系统中重要的组件，主要解决应用耦合，异步消息，流量削锋等问题。实现高性能，高可用，可伸缩和最终一致性架构。是大型分布式系统不可缺少的中间件。
-
 - [微博推荐架构的演进](http://blog.jobbole.com/93818/)
-	> 微博（Weibo）是一种通过关注机制分享简短实时信息的广播式社交网络平台。微博用户通过关注来订阅内容，在这种场景下，推荐系统可以很好地和订阅分发体系进行融合，相互促进。微博两个核心基础点：一是用户关系构建，二是内容传播，微博推荐一直致力于优化这两点，促进微博发展。
-	
 - [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
 
 
 
+## 0x09 Other-BookMarks
+> Other
+
+- [MacTalk-池建强的随想录](http://macshuo.com/)
+- [UML 基础: 类图](http://www.ibm.com/developerworks/cn/rational/rationaledge/content/feb05/bell/)
+- [codeCademy](https://www.codecademy.com/zh/learn)
+- [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/index.html)
+- [网络安全方面](http://www.xfocus.net)
+- [记一次被中间人攻击的经历](http://www.cnblogs.com/pannengzhi/p/4927707.html)
+- [码农周刊分类](https://github.com/nemoTyrant/manong)
+- [技术博客友情链接](http://www.gfzj.us/links/)
+- [有了这个列表，程序员不悉没练手的小项目了](http://blog.jobbole.com/49762/)
+- [终极 Shell——ZSH](http://zhuanlan.zhihu.com/mactalk/19556676)
+- [Redis 设计与实现](http://redisbook.com/)
+- [freeBuf](http://www.freebuf.com/)
+- [关于程序员求职简历](https://mdluo.github.io/blog/about-resume/)
+- [一步步搭建物联网系统](https://github.com/gmszone/designiot)
 
 ## 公众号
 > 微信公众号（IT/技术类）
